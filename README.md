@@ -22,7 +22,7 @@ Upon completion of this lab, you will be able to:
 
 3. **Employment and Gender Barplot**: Construct a barplot that represents the number of customers by **EmploymentStatus** segmented by **Gender**.
 
-4. **Measurements vs. Dimensions**: Review the **Measurements** and **Dimensions** identified by Tableau. Compare them to those in your Pandas dataframe and adjust them if necessary to ensure they match your data structure and analysis needs.
+4. **Measurements vs. Dimensions**: Review the **Measurements** and **Dimensions** identified by Tableau. Adjust them if necessary to ensure they match your data structure and analysis needs.
 
 5. **Gender Barplot Sheet**: Develop a sheet dedicated to displaying the barplot of customer counts by **Gender**.
 
